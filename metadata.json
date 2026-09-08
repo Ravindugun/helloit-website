@@ -1,0 +1,6 @@
+{
+  "name": "HelloIT Solutions",
+  "description": "Professional website for HelloIT Solutions - IT Support, Networking, Hardware & Business Technology Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
